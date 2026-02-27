@@ -1,6 +1,10 @@
 Welcome to java programming!
 
-Public class sxy
+Public class Car
 {
-System.out.println("Hedfsssssssllo");kjkdfjksklfj
+public static void main(String [] args)
+
+{
+System.out.println("Helo Welcome");
+}
 }
